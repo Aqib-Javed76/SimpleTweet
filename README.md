@@ -40,8 +40,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Issue caused by misdeclaration of TwitterClient. <br>
-Issue caused by not having the code for populateHometimeline in the TwitterClient, it was in the getInterestingList method. In the Tweet model, the json for "created_at" had a typo.
+- Issue caused by misdeclaration of TwitterClient. <br>
+- Issue caused by not having the code for populateHometimeline in the TwitterClient, it was in the getInterestingList method. In the Tweet model, the json for 	"created_at" had a typo.
 
 ## Open-source libraries used
 
